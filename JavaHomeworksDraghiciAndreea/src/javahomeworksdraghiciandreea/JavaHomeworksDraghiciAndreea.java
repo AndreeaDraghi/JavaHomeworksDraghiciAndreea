@@ -1,5 +1,7 @@
 /*
  * Homework n. 2
+ * Exercise 1.:Create a short Java program that reads your name from keyboard 
+ * and writes it in console (in NetBeans).
  */
 package javahomeworksdraghiciandreea;
 
