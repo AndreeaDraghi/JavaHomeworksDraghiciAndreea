@@ -12,8 +12,6 @@ public class HelloWorldAnonymousClasses {
       //Inner interface HelloWorld
 
     interface HelloWorld {
-
-
         public void greet();
 
 
